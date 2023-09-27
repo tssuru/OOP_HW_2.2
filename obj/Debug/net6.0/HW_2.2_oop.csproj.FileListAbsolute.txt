@@ -1,0 +1,14 @@
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.AssemblyInfoInputs.cache
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.AssemblyInfo.cs
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.csproj.CoreCompileInputs.cache
+C:\Users\home\VS_projects\HW_2.2_oop\bin\Debug\net6.0\HW_2.2_oop.exe
+C:\Users\home\VS_projects\HW_2.2_oop\bin\Debug\net6.0\HW_2.2_oop.deps.json
+C:\Users\home\VS_projects\HW_2.2_oop\bin\Debug\net6.0\HW_2.2_oop.runtimeconfig.json
+C:\Users\home\VS_projects\HW_2.2_oop\bin\Debug\net6.0\HW_2.2_oop.dll
+C:\Users\home\VS_projects\HW_2.2_oop\bin\Debug\net6.0\HW_2.2_oop.pdb
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.dll
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\refint\HW_2.2_oop.dll
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.pdb
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\HW_2.2_oop.genruntimeconfig.cache
+C:\Users\home\VS_projects\HW_2.2_oop\obj\Debug\net6.0\ref\HW_2.2_oop.dll
